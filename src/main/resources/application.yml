@@ -35,6 +35,13 @@ hystrix:
             timeoutInMilliseconds: 4000
 
 
+management:
+  endpoint:
+    web:
+      exposure:
+        include: hystrix.stream
+
+
 
 eureka:
   client:
