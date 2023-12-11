@@ -53,6 +53,12 @@
 			<version>1.5.18</version> <!-- Replace with the latest version -->
 		</dependency>
 
+		<!-- Spring Cloud Starter Netflix Archaius -->
+<!--		<dependency>-->
+<!--			<groupId>org.springframework.cloud</groupId>-->
+<!--			<artifactId>spring-cloud-starter-netflix-archaius</artifactId>-->
+<!--			<version>2.2.10.RELEASE</version> &lt;!&ndash; Use the appropriate version &ndash;&gt;-->
+<!--		</dependency>-->
 	</dependencies>
 
 	<dependencyManagement>
