@@ -1,0 +1,1 @@
+ API gateway or a service gateway, is a crucial component in modern distributed architectures. acts as a central entry point for managing, routing, and securing requests between clients and a collection of microservices or backend services.
